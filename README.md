@@ -2,6 +2,12 @@
 
 ### Hi, I’m Betul Baskan, a front-end developer working up a 7-month boot camp at Turing School of Software & Design, and I'm looking for work. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
 
+<hr></hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baskanbetul&theme=vue-dark&show_icons=true)
+
+<hr></hr>
+
 ### Let's Connect!
   
 [![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:btlbskn@hotmail.com)
