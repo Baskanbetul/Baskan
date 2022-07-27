@@ -1,9 +1,14 @@
 ## Hello! I'm Betul.
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Baskanbetul%2FBaskanbetul&countColor=%2337d67a)
+
+
 ### Hi, I’m Betul Baskan, a front-end developer working up a 7-month boot camp at Turing School of Software & Design, and I'm looking for work. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
 
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Baskanbetul%2FBaskanbetul&countColor=%2337d67a)
+### Let's Connect!
+  
+[![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:btlbskn@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betul-baskan/)  
 
 <hr></hr>
 
@@ -12,11 +17,6 @@
 ![Betul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baskanbetul&theme=vue-dark&show_icons=true)
 
 <!-- ![Betul's trophies](https://github-profile-trophy.vercel.app/?username=Baskanbetul&hide=starstheme=vue-dark) -->
-
-### Let's Connect!
-  
-[![Hotmail](https://img.shields.io/badge/Hotmail-D14836?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:btlbskn@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betul-baskan/)  
 
 ### Technologies
   
