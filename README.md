@@ -2,11 +2,16 @@
 
 ### Hi, I’m Betul Baskan, a front-end developer working up a 7-month boot camp at Turing School of Software & Design, and I'm looking for work. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
 
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Baskanbetul%2FBaskanbetul&countColor=%2337d67a)
+
 <hr></hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baskanbetul&theme=vue-dark&show_icons=true)
+[![Betul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baskanbetul&layout=compact&theme=vue-dark)](https://github.com/Baskanbetul/github-readme-stats)
 
-<hr></hr>
+![Betul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baskanbetul&theme=vue-dark&show_icons=true)
+
+<!-- ![Betul's trophies](https://github-profile-trophy.vercel.app/?username=Baskanbetul&hide=starstheme=vue-dark) -->
 
 ### Let's Connect!
   
@@ -27,7 +32,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ##### Testing
   
