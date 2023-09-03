@@ -3,7 +3,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Baskanbetul%2FBaskanbetul&countColor=%2337d67a)
 
 
-### Hi, I’m Betul Baskan, a front-end developer working up a 7-month boot camp at Turing School of Software & Design, and I'm looking for work. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
+### Hi, I’m Betul Baskan, a front-end developer. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
 
 ### Let's Connect!
   
@@ -13,8 +13,6 @@
 <hr></hr>
 
 [![Betul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baskanbetul&layout=compact&theme=vue-dark)](https://github.com/Baskanbetul/github-readme-stats)
-
-![Betul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baskanbetul&theme=vue-dark&show_icons=true)
 
 <!-- ![Betul's trophies](https://github-profile-trophy.vercel.app/?username=Baskanbetul&hide=starstheme=vue-dark) -->
 
