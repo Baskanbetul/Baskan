@@ -2,8 +2,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Baskanbetul%2FBaskanbetul&countColor=%2337d67a)
 
-
-### Hi, I’m Betul Baskan, a front-end developer. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
+### I’m a front-end developer. I'm passionate about solving complex code problems and thoughtfully designing beautiful user interfaces. Please get in touch via LinkedIn direct message or email me, if you want to work together.
 
 ### Let's Connect!
   
